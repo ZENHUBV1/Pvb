@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ZENHUBV1/Pvb/refs/heads/main/hi.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZENHUBV1/Pvb/refs/heads/main/rika.txt"))()
